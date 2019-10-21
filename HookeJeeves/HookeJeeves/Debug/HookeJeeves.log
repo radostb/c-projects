@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\arthur\desktop\курсовая\block3\hookejeeves\hookejeeves\source.cpp(91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\arthur\desktop\курсовая\block3\hookejeeves\hookejeeves\source.cpp(92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  HookeJeeves.vcxproj -> C:\Users\Arthur\Desktop\курсовая\Block3\HookeJeeves\Debug\HookeJeeves.exe

@@ -1,0 +1,4 @@
+﻿  LM.cpp
+c:\users\arthur\desktop\курсовая\block2\lm\lm\lm.cpp(428): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\arthur\desktop\курсовая\block2\lm\lm\lm.cpp(433): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LM.vcxproj -> C:\Users\Arthur\Desktop\курсовая\Block2\LM\Debug\LM.exe
